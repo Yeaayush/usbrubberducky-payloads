@@ -15,7 +15,7 @@ DELAY 200
 REM ########## THIS ITEM MAY GO OUT OF STOCK, IN WHICH CASE THE PAYLOAD WILL NOT WORK - CHANGE FOR ANOTHER ITEM'S URL IF NEEDED! ##########
 
 REM ########## FOR AMERICANS - CHANGE THIS FROM '.co.uk' TO 'com' ##########
-STRING https://www.amazon.co.uk/Best-Rick-Astley/dp/B00MWPA39Y/ref=sr_1_7?crid=1DTB70Z2TNU5F&keywords=rick+astley+cd&qid=1650786996&sprefix=rick+astley+cd%2Caps%2C71&sr=8-7
+STRING https://www.amazon.com/Best-Rick-Astley/dp/B00MWPA39Y/ref=sr_1_7?crid=1DTB70Z2TNU5F&keywords=rick+astley+cd&qid=1650786996&sprefix=rick+astley+cd%2Caps%2C71&sr=8-7
 
 DELAY 200
 ENTER
@@ -24,7 +24,7 @@ CTRL f
 DELAY 400
 
 REM ########## FOR AMERICANS - CHANGE THIS TO 'add to cart' ##########
-STRING add to basket
+STRING add to cart
 
 ENTER
 DELAY 200
